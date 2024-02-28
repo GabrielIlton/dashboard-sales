@@ -1,0 +1,29 @@
+[general]
+# Título da página
+pageTitle = "Minha Aplicação Streamlit"
+
+# Ícone da página (URL ou caminho local)
+# favicon = "caminho/do/icone.ico"
+
+[theme]
+# Tema da aplicação
+base="dark"
+font="serif"
+
+# Estilo da barra lateral
+# sidebarBackColor = "#2c3e50"
+# sidebarTextColor = "#ecf0f1"
+# sidebarWidth = 250
+
+[server]
+# Habilitar ou desabilitar o recarregamento automático do aplicativo
+reload = true
+# Porta na qual o aplicativo será executado
+# port = 8501
+
+# Utilizado durante o desenvolvimento para ver as alterações instantaneamente
+# enableCORS = false
+
+[logger]
+# Nível de log (debug, info, warning, error, critical)
+level = "info"
